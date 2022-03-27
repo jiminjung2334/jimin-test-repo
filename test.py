@@ -4,3 +4,5 @@ print('Jimin Jung', 202103173, 'computer engineering')
 print("test")
 print("hello")
 print("bye")
+
+print("오픈소스 4주차 실습")
