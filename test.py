@@ -4,6 +4,6 @@
 print("test")
 print("hello hufs")
 print("Python")
-print("bye")
+print("good bye")
 
 print("오픈소스 4주차 실습")
