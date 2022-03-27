@@ -1,1 +1,1 @@
-for test
+print('for test')
