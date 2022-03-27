@@ -2,7 +2,7 @@
 # Touched by user2
 
 print("test")
-print("hello")
+print("hello hufs")
 print("Python")
 print("bye")
 
