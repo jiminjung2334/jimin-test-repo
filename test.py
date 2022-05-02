@@ -1,5 +1,5 @@
 #Jimin Jung, 202103173, computer engineering
-# Touched by user2
+#정지민, 202103173, 컴퓨터공학부
 
 print("test")
 print("hello hufs")
